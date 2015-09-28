@@ -6,13 +6,13 @@ Film Replikleri Uygulamasý;
 * Veritabaný için Microsoft SQL Server 2012 kullanýlmýþtýr. FilmReplikleri uygulamasý veritabaný .bak uzantýlý backup dosyasý için [týklayýnýz] (https://github.com/arslanaybars/FilmReplikleri/blob/master/FilmReplikleri.bak)
 
 NOT : cGenel classýnýn içerisindeki veritabanýný kurduðumuz dosyanýn kaynaðýný deðiþtirmeyi unutmayýnýz. 
-'''''
 
 
+´´´´
 public string connStr = "Data Source=*******; Initial Catalog=FilmReplikleri; uid=sa; pwd=12345t";
+´´´´
 
 
-'''''
 ******* Data Source kendi ayarlarýnýza göre deðiþtiriniz. Benim MSSQL Konumum yandaki gibi : AYBARS-PC\\MSSQL2012
 
 #####Ekran Görüntüleri

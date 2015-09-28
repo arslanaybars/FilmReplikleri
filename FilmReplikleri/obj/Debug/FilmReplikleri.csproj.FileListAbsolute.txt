@@ -1,0 +1,12 @@
+D:\VisualStudio\FilmReplikleri\FilmReplikleri\bin\Debug\FilmReplikleri.exe.config
+D:\VisualStudio\FilmReplikleri\FilmReplikleri\bin\Debug\FilmReplikleri.exe
+D:\VisualStudio\FilmReplikleri\FilmReplikleri\bin\Debug\FilmReplikleri.pdb
+D:\VisualStudio\FilmReplikleri\FilmReplikleri\bin\Debug\MetroFramework.Design.dll
+D:\VisualStudio\FilmReplikleri\FilmReplikleri\bin\Debug\MetroFramework.dll
+D:\VisualStudio\FilmReplikleri\FilmReplikleri\bin\Debug\MetroFramework.Fonts.dll
+D:\VisualStudio\FilmReplikleri\FilmReplikleri\obj\Debug\FilmReplikleri.csprojResolveAssemblyReference.cache
+D:\VisualStudio\FilmReplikleri\FilmReplikleri\obj\Debug\FilmReplikleri.Form1.resources
+D:\VisualStudio\FilmReplikleri\FilmReplikleri\obj\Debug\FilmReplikleri.Properties.Resources.resources
+D:\VisualStudio\FilmReplikleri\FilmReplikleri\obj\Debug\FilmReplikleri.csproj.GenerateResource.Cache
+D:\VisualStudio\FilmReplikleri\FilmReplikleri\obj\Debug\FilmReplikleri.exe
+D:\VisualStudio\FilmReplikleri\FilmReplikleri\obj\Debug\FilmReplikleri.pdb

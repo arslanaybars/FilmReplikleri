@@ -95,7 +95,7 @@ namespace FilmReplikleri
         private void btnOyla_Click(object sender, EventArgs e)
         {
             //Go Github
-            ProcessStartInfo p1 = new ProcessStartInfo("http://www.arslanaybars.com");
+            ProcessStartInfo p1 = new ProcessStartInfo("https://github.com/arslanaybars/FilmReplikleri");
             Process.Start(p1);
         }
 

@@ -8,9 +8,9 @@ Film Replikleri Uygulamasý;
 NOT : cGenel classýnýn içerisindeki veritabanýný kurduðumuz dosyanýn kaynaðýný deðiþtirmeyi unutmayýnýz. 
 
 
-´´´´
+```
 public string connStr = "Data Source=*******; Initial Catalog=FilmReplikleri; uid=sa; pwd=12345t";
-´´´´
+```
 
 
 ******* Data Source kendi ayarlarýnýza göre deðiþtiriniz. Benim MSSQL Konumum yandaki gibi : AYBARS-PC\\MSSQL2012

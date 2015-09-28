@@ -18,7 +18,7 @@ arslanaybars@gmail.com
 #####Lisans
 GNU General Public License
 
-Programý sýnýrsýz kullanma özgürlüðü.
-Programýn nasýl çalýþtýðýný inceleme ve amaçlara uygun deðiþtirme özgürlüðü.
-Programýn kopyalarýný sýnýrsýz daðýtma özgürlüðü.
-Programýn deðiþtirilmiþ halini daðýtma özgürlüðü.
+- Programý sýnýrsýz kullanma özgürlüðü.
+- Programýn nasýl çalýþtýðýný inceleme ve amaçlara uygun deðiþtirme özgürlüðü.
+- Programýn kopyalarýný sýnýrsýz daðýtma özgürlüðü.
+- Programýn deðiþtirilmiþ halini daðýtma özgürlüðü.
